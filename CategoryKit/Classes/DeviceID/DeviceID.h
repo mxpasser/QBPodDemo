@@ -16,7 +16,4 @@
 
 + (NSString *)idfaStr;
 
-// 获取静态地址生成的pid
-+ (NSString *)getStaticPathPlid;
-
 @end

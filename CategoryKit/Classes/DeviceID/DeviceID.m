@@ -13,7 +13,6 @@
 //#import "SSKeychain.h"
 #import "SAMKeychain.h"
 #import <AdSupport/AdSupport.h>
-#import <IJKMediaFramework/IJKMediaFramework.h>
 
 
 NSString * const kKCServiceName = @"group.AiIME";
@@ -53,8 +52,5 @@ SYNTHESIZE_SINGLETON_ARC(DeviceID);
 	}
 	return idfa;
 }
-+ (NSString *)getStaticPathPlid {
-    NSString *pid = [IJKFFMoviePlayerController getNativeDid_deviceid:[NSObject deviceModel]];
-    return pid;
-}
+
 @end

@@ -17,6 +17,7 @@
 #import "DeviceID.h"
 #import "SAMKeychain.h"
 #import "SAMKeychainQuery.h"
+#import "SynthesizeSingleton.h"
 
 FOUNDATION_EXPORT double CategoryKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char CategoryKitVersionString[];
