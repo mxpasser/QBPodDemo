@@ -1,5 +1,5 @@
 PODS:
-  - CategoryKit (0.1.0)
+  - CategoryKit (1.0)
 
 DEPENDENCIES:
   - CategoryKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CategoryKit: 847a9dc722135ec344b19bfc073521aaf5ee9639
+  CategoryKit: 775f0d1cd850622d0f666dab1994dc2c025250ce
 
 PODFILE CHECKSUM: db8486a5cc1370816ef00dc01464c264a4d0191f
 

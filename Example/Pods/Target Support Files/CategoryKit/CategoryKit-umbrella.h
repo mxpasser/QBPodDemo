@@ -14,6 +14,9 @@
 #import "NSArray+json.h"
 #import "NSArray+Log.h"
 #import "NSDate+Extension.h"
+#import "DeviceID.h"
+#import "SAMKeychain.h"
+#import "SAMKeychainQuery.h"
 
 FOUNDATION_EXPORT double CategoryKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char CategoryKitVersionString[];

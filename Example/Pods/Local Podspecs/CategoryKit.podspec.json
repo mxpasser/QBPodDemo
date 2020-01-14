@@ -1,9 +1,9 @@
 {
   "name": "CategoryKit",
-  "version": "0.1.0",
+  "version": "1.0",
   "summary": "A short description of CategoryKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/qiaojg/CategoryKit",
+  "homepage": "https://github.com/mxpasser/QBPodDemo.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/qiaojg/CategoryKit.git",
-    "tag": "0.1.0"
+    "tag": "1.0"
   },
   "platforms": {
     "ios": "8.0"
